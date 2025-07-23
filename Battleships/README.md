@@ -16,7 +16,8 @@ Possible wrong inputs:
 <img width="1110" height="603" alt="image" src="https://github.com/user-attachments/assets/2bfc3845-9f9a-48a4-8e16-70519c8caa47" />
 <img width="1110" height="316" alt="image" src="https://github.com/user-attachments/assets/e6188de3-6eeb-43fe-8399-49e84736f8ef" />
 <img width="1110" height="374" alt="image" src="https://github.com/user-attachments/assets/22f94b0d-0d87-40da-9528-fdc48007197a" />
-<img width="1110" height="622" alt="image" src="https://github.com/user-attachments/assets/7c7c1776-b834-4362-9f1b-e7b4079a9207" />
+<img width="1110" height="623" alt="image" src="https://github.com/user-attachments/assets/899e8b46-e0cf-4f14-a3b4-657d850559ca" />
+<img width="1110" height="623" alt="image" src="https://github.com/user-attachments/assets/848141a5-8354-4908-aa93-b624ce19670a" />
 <img width="1110" height="222" alt="image" src="https://github.com/user-attachments/assets/7b1a5d41-cceb-4ed3-a7d0-7507db9ca41e" />
 <img width="1110" height="223" alt="image" src="https://github.com/user-attachments/assets/ab5f0bfa-c024-46b2-a667-919c58a9f745" />
 <img width="1110" height="241" alt="image" src="https://github.com/user-attachments/assets/b446bf10-bd62-4d46-80ce-bb0817916df0" />
